@@ -73,8 +73,8 @@ http://www.oreilly.com/data/free/files/going-pro-in-data-science.pdf
 
 ``` python
 15. Evaluating Machine Learning Models:
-``
-` http://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf
+``` 
+http://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf
 
 ``` python
 16. What is Data Science:
